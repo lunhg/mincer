@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "autoprefixer": "*",
-    "coffee-script": "*",
+    "coffeescript": "*",
     "connect": "*",
     "csso": "*",
     "csswring": "*",
@@ -45,7 +45,7 @@
     "ndoc": "^5.0.1",
     "node-sass": "*",
     "postcss": "*",
-    "pug": "^2.0.0-beta6",
+    "pug": "^2.0.0-rc.4",
     "sinon": "^1.12.2",
     "stylus": "*",
     "supertest": "^2.0.0",
